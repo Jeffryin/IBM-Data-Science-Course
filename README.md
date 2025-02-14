@@ -4,5 +4,7 @@ In this certificate program in Coursera I am learning new skills to what I have 
 
 ## Table of Contents:
 
-- sql
--   using sql to clean and filter up data, transform and normalize data, join and merge datasets, and extract meaningful insights
+- SQL: using sql to clean and filter up data, transform and normalize data, join and merge datasets, and extract meaningful insights while being familiar with relational databases.
+- Data Analysis using Python: pandas, NumPy, MatPlotlib and other libraries
+
+### SQL

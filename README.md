@@ -11,3 +11,5 @@ In this certificate program in Coursera I am learning new skills to what I have 
 
 ### Skills Learned
 - SQL, Data Analysis, Python, Data Visualization
+- Supervised Learning; 
+- Unsupervised Learning;
